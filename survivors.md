@@ -27,6 +27,12 @@ If a player makes 5 or more disturbance rolls then tbe treat level increases by 
 
 Zombie models work like any other model, having attributes, performing actions, etc. However they activate under specific circumstances detailed below, and have no owning player. Any time a model attacks a zombie the opposing player makes the defence and counter rolls.
 
+Zombies have the following profile:
+
+| Model  | Cmd | Mov | Skl | Def | Tgh | HP  |
+| :----- | :-: | :-: | :-: | :-: | :-: | :-: |
+| Zombie |  2  |  3  |  4+ |  6+ |  2  |  1  | 
+
 ### Zombie Entry Points
 
 The zombies have their own entry points, some scattered around the table edge, while others are placed on the battoefield, at building doorways and so on. Zombies are deployed at these entry points as explained below.
