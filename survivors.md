@@ -45,7 +45,7 @@ The zombies have their own entry points, some scattered around the table edge, w
 
 For each failed disturbance roll a player makes, the opposing player gets to activate a zombie, before activating one of their own models - meaning careful players can use the zombies in a way that suits them.
 
-The player chooses the closest zombie, within 12 inches, to the model that caused the disturbance that still has Command Points. If there are no Zombies within 12 inches the player instead places a number of new zombies, equal to the current Threat Level, within 3 inches of any zombie entry point on the battlefield.
+The player chooses a zombie within 12 inches of the model that caused the disturbance, if there are no Zombies within 12 inches the player instead places a number of new zombies, equal to the current Threat Level, within 3 inches of any zombie entry point on the battlefield.
 
 If a player activates a zombie it performs a move action then an attack action following these guidelines in order:
 
