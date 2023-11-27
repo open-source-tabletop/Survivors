@@ -18,10 +18,18 @@ At the end of each model's activations they make one to 6 disturbance rolls. The
 
 - Performing 3 or more actions
 - Making an attack action, some weapons cause additional disturbance rolls
-- Moving within 6 inches of a zombie
+- Moving within 6 inches of a zombie or zombie entry point
 - Moving within 6 inches of more than one zombie
 
+If a player makes 5 or more disturbance rolls then tbe treat level increases by 1.
+
 ### Zombie Models
+
+Zombie models work like any other model, having attributes, performing actions, etc. However they activate under specific circumstances detailed below, and have no owning player. Any time a model attacks a zombie the opposing player makes the defence and counter rolls.
+
+### Zombie Entry Points
+
+The zombies have their own entry points, some scattered around the table edge, while others are placed on the battoefield, at building doorways and so on. Zombies are deployed at these entry points as explained below.
 
 ### Zombie Activity
 
@@ -36,4 +44,4 @@ If a player activates a zombie it performs a move action then an attack action f
 - If a zombie was activated but the model there is no model that caused the disturbance, either because the zombie was activated separately or the disturbing model has been killed then they can be moved freely.
 - If a zombie can attack a model it does so, if there are multiple valid targets the model that caused the disturbance takes priority, otherwise the controlling player can choose.
 
-When both players have finished activating all of their own models they then alternate selecting zombies to activate followin these rules.
+When both players have finished activating all of their own models they then alternate selecting zombies to activate following these rules.
