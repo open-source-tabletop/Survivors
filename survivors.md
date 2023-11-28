@@ -8,6 +8,8 @@ Fighting will draw the hordes of zombies but failing to get what you need is as 
 
 # Playing Survivors
 
+Survivors uses the [Cadence Core Rules](https://cadence.games) with the additional rules listed below. This game requires a battlefield around 2ft by 3ft, or something with a similar area. Each game lasts for 6 rounds. Survivors can be played between two players each with their own band of survivors or with one player playing the survivors and the other playing the zombies.
+
 ## Zombies
 
 The world of survivors is overrun with the walking dead, and there are several rules that govern their actions on the battlefield. The threat of zombie attacks increases over time and careless actions from a player can see them being surrounded and overwhelmed quickly.
