@@ -51,15 +51,71 @@ If a player activates a zombie it performs a move action then an attack action f
 - If a zombie can attack a model it does so, if there are multiple valid targets the model that caused the disturbance takes priority, otherwise the controlling player can choose.
 - Zombies cannot climb, making raised areas some of the safest places to be, just be careful not to get trapped.
 
-# Special Rules
+## Special Rules
 
 | Rule | Effect |
 | :--- | :----- |
+| Small | This model may re-roll 1 failed disturbance roll after each activation. |
 | Sneak | If this model moves less than 3 inches and does not make an attack it does not roll the first automatic disturbance roll. |
 | Loud | When using this weapon the player must make an additional disturbance roll. |
 | Silent | When using this weapon the player does not make a disturbance roll for this attack. |
+| Infection | Any model that loses a wound to this weapon loses a further hit point at the end of each of its activations. When this model dies it is replaced with a new zombie model. |
 
 # Gather your Survivors
+
+Your band of survivors come from many walks of life, represented by the 5 survivor types. When making your band you have 100 points to spend to recruit new characters and purchase their equipment and weapons. This points system is provided to give a degree of balance to games, however there are rules below for randomly selecting your survivors.
+
+Whichever method you choose you pick your survivors from one of the 5 types below. Each also has a limit to how many you can include in your band, and what weapons and equipment they can take.
+
+### 0-3 Heroes
+
+| Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                 | Cost |
+| :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------- | :--: |
+| Hero              |  5  | 6"  | 4+  | 5+  |  3  |  3  |                               | 15   |
+
+### 0-3 Hunters
+
+| Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                 | Cost |
+| :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------- | :--: |
+| Hunter            |  5  | 6"  | 4+  | 5+  |  3  |  3  |                               | 15   |
+
+### 0-2 Experts
+
+| Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                 | Cost |
+| :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------- | :--: |
+| Expert            |  4  | 5"  | 5+  | 5+  |  3  |  2  |                               | 10   |
+
+### Any number of Civilians
+
+| Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                 | Cost |
+| :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------- | :--: |
+| Civilian          |  4  | 5"  | 5+  | 6+  |  3  |  2  |                               | 9    |
+
+### 0-2 Innocents
+
+| Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                 | Cost |
+| :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------- | :--: |
+| Innocent          |  4  | 4"  | 5+  | 6+  |  2  |  2  | Small                         | 5    |
+
+## Random Survivors
+
+If you want to randomise your survivors you can add one new model at a time by rolling on the following table. If you roll a model that exceeds its limit in your band then you must re-roll. Keep adding models, paying the cost for each model and its equipment. If you roll a model that would take you over 85 points you instead choose 1 Hero. Survivor, or Civilian model and have 8 points to spend on weapons and equipment for that model.
+
+| D12 Roll | Model         |
+| :------: | :-----------: |
+| 12       | Hero          |
+| 10-11    | Hunter        |
+| 8-9      | Expert        |
+| 3-7      | Civilian      |
+| 2        | Innocent      |
+
+# Weapons and Equipment
+
+### Ranged Weapons
+
+### Assualt Weapons
+
+### Equipment
 
 # Campaigns
 
