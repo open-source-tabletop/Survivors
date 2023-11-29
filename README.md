@@ -6,5 +6,5 @@ It's the **Zombie Apocalypse** and your only goal now is to **survive**! You and
 
 Fighting will draw the hordes of zombies but failing to get what you need is as much a death sentence.
 
-[Play Survivors](#)
-[Survivors on Cadence.Games](#)
+[Play Survivors](https://github.com/open-source-tabletop/survivors/blob/main/survivors.md)  
+[Survivors on Cadence.Games](#)  
