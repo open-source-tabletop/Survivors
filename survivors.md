@@ -111,6 +111,26 @@ If you want to randomise your survivors you can add one new model at a time by r
 
 # Weapons and Equipment
 
+Skills Hero
+
+Draw Attention: create deliberate disturbance to draw specific zombies towards you
+
+Inspiration: friendly models get +1 movement and skill rolls within 6"
+
+Skills Hunter
+
+Headshot: gain shred on attack
+
+Take down: 2nd attack action causes automatic disturbance
+
+Skills Expert
+
+Shamble, zombies move half
+
+Scavenger Automatic success
+
+
+
 ### Ranged Weapons
 
 ### Assualt Weapons
