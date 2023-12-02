@@ -55,7 +55,7 @@ If a player activates a zombie it performs a move action then an attack action f
 
 | Rule | Effect |
 | :--- | :----- |
-| Small | This model may re-roll 1 failed disturbance roll after each activation. |
+| Quiet | This model may re-roll 1 failed disturbance roll after each activation. |
 | Sneak | If this model moves less than 3 inches and does not make an attack it does not roll the first automatic disturbance roll. |
 | Loud | When using this weapon the player must make an additional disturbance roll. |
 | Silent | When using this weapon the player does not make a disturbance roll for this attack. |
@@ -63,23 +63,29 @@ If a player activates a zombie it performs a move action then an attack action f
 
 # Gather your Survivors
 
-### 0-3 Heroes
+### 1 Leader
 
 | Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                 | Cost |
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------- | :--: |
-| Hero              |  5  | 6"  | 4+  | 5+  |  3  |  3  |                               | 15   |
+| Leader            |  5  | 6"  | 3+  | 5+  |  3  |  3  | Leader                        | 15   |
+
+### 0-3 Hunters
+
+| Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                 | Cost |
+| :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------- | :--: |
+| Hunter            |  5  | 6"  | 4+  | 5+  |  3  |  3  |                               | 15   |
 
 ### Any number of Civilians
 
 | Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                 | Cost |
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------- | :--: |
-| Civilian          |  4  | 5"  | 5+  | 6+  |  3  |  2  |                               | 9    |
+| Civilian          |  5  | 5"  | 5+  | 6+  |  3  |  2  |                               | 9    |
 
 ### 0-2 Innocents
 
 | Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                 | Cost |
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------- | :--: |
-| Innocent          |  4  | 4"  | 5+  | 6+  |  2  |  2  | Small                         | 5    |
+| Innocent          |  4  | 5"  | 5+  | 6+  |  2  |  2  | Quiet                         | 5    |
 
 # Weapons and Equipment
 
