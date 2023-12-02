@@ -63,27 +63,11 @@ If a player activates a zombie it performs a move action then an attack action f
 
 # Gather your Survivors
 
-Your band of survivors come from many walks of life, represented by the 5 survivor types. When making your band you have 100 points to spend to recruit new characters and purchase their equipment and weapons. This points system is provided to give a degree of balance to games, however there are rules below for randomly selecting your survivors.
-
-Whichever method you choose you pick your survivors from one of the 5 types below. Each also has a limit to how many you can include in your band, and what weapons and equipment they can take.
-
 ### 0-3 Heroes
 
 | Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                 | Cost |
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------- | :--: |
 | Hero              |  5  | 6"  | 4+  | 5+  |  3  |  3  |                               | 15   |
-
-### 0-3 Hunters
-
-| Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                 | Cost |
-| :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------- | :--: |
-| Hunter            |  5  | 6"  | 4+  | 5+  |  3  |  3  |                               | 15   |
-
-### 0-2 Experts
-
-| Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                 | Cost |
-| :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------- | :--: |
-| Expert            |  4  | 5"  | 5+  | 5+  |  3  |  2  |                               | 10   |
 
 ### Any number of Civilians
 
@@ -97,33 +81,15 @@ Whichever method you choose you pick your survivors from one of the 5 types belo
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------- | :--: |
 | Innocent          |  4  | 4"  | 5+  | 6+  |  2  |  2  | Small                         | 5    |
 
-## Random Survivors
-
-If you want to randomise your survivors you can add one new model at a time by rolling on the following table. If you roll a model that exceeds its limit in your band then you must re-roll. Keep adding models, paying the cost for each model and its equipment. If you roll a model that would take you over 85 points you instead choose 1 Hero. Survivor, or Civilian model and have 8 points to spend on weapons and equipment for that model.
-
-| D12 Roll | Model         |
-| :------: | :-----------: |
-| 12       | Hero          |
-| 10-11    | Hunter        |
-| 8-9      | Expert        |
-| 3-7      | Civilian      |
-| 2        | Innocent      |
-
 # Weapons and Equipment
-
-Skills Hero
 
 Draw Attention: create deliberate disturbance to draw specific zombies towards you
 
 Inspiration: friendly models get +1 movement and skill rolls within 6"
 
-Skills Hunter
-
 Headshot: gain shred on attack
 
 Take down: 2nd attack action causes automatic disturbance
-
-Skills Expert
 
 Shamble, zombies move half
 
