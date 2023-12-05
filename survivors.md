@@ -55,8 +55,7 @@ If a player activates a zombie it performs a move action then an attack action f
 
 | Rule | Effect |
 | :--- | :----- |
-| Quiet | This model may re-roll 1 failed disturbance roll after each activation. |
-| Sneak | If this model moves less than 3 inches and does not make an attack it does not roll the first automatic disturbance roll. |
+| Explosive | This weapon causes 3
 | Loud | When using this weapon the player must make an additional disturbance roll. |
 | Silent | When using this weapon the player does not make a disturbance roll for this attack. |
 | Infection | Any model that loses a wound to this weapon loses a further hit point at the end of each of its activations. When this model dies it is replaced with a new zombie model. |
