@@ -4,29 +4,12 @@
 
 ## Models
 
-### 1 Leader
-
-| Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                 | Cost |
-| :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------- | :--: |
-| Leader            |  5  | 6"  | 3+  | 5+  |  3  |  3  | Leader                        | 15   |
-
-### 0-3 Hunters
-
-| Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                 | Cost |
-| :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------- | :--: |
-| Hunter            |  5  | 6"  | 4+  | 5+  |  3  |  3  |                               | 15   |
-
-### Any number of Civilians
-
-| Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                 | Cost |
-| :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------- | :--: |
-| Civilian          |  5  | 5"  | 5+  | 6+  |  3  |  2  |                               | 9    |
-
-### 0-2 Innocents
-
-| Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                 | Cost |
-| :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------- | :--: |
-| Innocent          |  4  | 5"  | 5+  | 6+  |  2  |  2  | Quiet                         | 5    |
+| Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                 | Count  | Cost |
+| :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------- | :----: | :--: |
+| Leader            |  5  | 6"  | 3+  | 5+  |  3  |  3  | Leader                        | 1 Only | 16   |
+| Hunter            |  5  | 6"  | 4+  | 5+  |  3  |  3  |                               | 0-3    | 14   |
+| Civilian          |  5  | 5"  | 5+  | 6+  |  3  |  2  |                               | 2+     | 9    |
+| Innocent          |  4  | 5"  | 5+  | 6+  |  2  |  2  | Quiet                         | 0-2    | 5    |
 
 ## Weapons and Equipment
 
