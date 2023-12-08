@@ -69,6 +69,10 @@ A Search objective requires the securing model to be within 1 inch, with no enem
 | 9-11 | **Good Supplies** - The objective is secured, the model gains 2 supplies. |
 | 12 | **Cache** - The objective remains unsecured, the model gains 2 supplies. |
 
+## Retreat
+
+Unlike most wargames, standing to fight in Survivors is generally a bad tactic, the only goal is to get what you need and get away. At any point in the game, any member of your group may retreat from the battlefield. To do so they must get within 6 inches of one of your entry points, at which point they are moved back to reserve. They may not be redeployed but do not count as casualties and no gathered resources are lost. Once a player has at least 3 models retreat the other player can choose to end the game at the end of the current round, and the aftermath can be determined according to the mission being played.
+
 ## Special Rules
 
 | Rule | Effect |

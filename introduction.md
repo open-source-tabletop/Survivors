@@ -2,7 +2,8 @@
 
 ---
 
-## When there's no more room in hell the dead will walk the earth
+When there's no more room in Hell, the dead will walk the Earth.
+{ .feature}
 
 It's the **Zombie Apocalypse** and your only goal now is to **survive**! You and your small band of survivors must scavenge food, meds, and ammo amongst the wreckage of civilization, but the **walking dead** are not the only threat you need to be contend with. You are not the only survivors and competition is ruthless, they will stop at nothing to get those supplies before you, and there's definitely not enough to go around.
 
