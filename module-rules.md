@@ -44,7 +44,7 @@ For each failed disturbance roll a player makes, the opposing player must activa
 If a player activates a zombie it performs a Move action then an Attack action following these guidelines in order:
 
 - If the zombie is able to move within 1 inch of a non-zombie model it must do so towards the nearest valid model.
-- If the Zombie cannot reach 1 inch of a non-zombie model it moves its full movement and must finish closer to the nearest non-zombie model it has line-of-sight to. Though it does not need to move directly towards that model.
+- If the Zombie cannot reach to within 1 inch of a non-zombie model it moves its full movement and must finish closer to the nearest non-zombie model it has line-of-sight to. Though it does not need to move directly towards that model.
 - If a zombie can attack a model it does so, if there are multiple valid targets the model that caused the disturbance takes priority, otherwise the controlling player can choose.
 - Zombies cannot climb, making raised areas some of the safest places to be, just be careful not to get trapped.
 
