@@ -37,6 +37,12 @@ Zombies have the following profile:
 | :----- | :-: | :-: | :-: | :-: | :-: | :-: |
 | Zombie |  x  |  3" |  5+ |  5+ |  5  |  1  |
 
+Zombies have the following weapon:
+
+| Weapon        | Rng | Att | Dmg | Prc |
+| :------------ | :-: | :-: | :-: | :-: |
+| Zombie Attack |  1" |  2  |  3  |  0  |
+
 ### Zombie Activity Events
 
 For each failed disturbance roll a player makes, the opposing player must activate a zombie of their choice, within 12 inches of the model that caused the disturbance. They may choose whichever zombie models they wish but not the same zombie twice for any zombie activity event. If there are more failed disturbance rolls than zombies within 12 inches they must place a new zombie within 3 inches of any zombie entry point they choose. They then activate one of their own models as normal if they have any remaining with command points.
