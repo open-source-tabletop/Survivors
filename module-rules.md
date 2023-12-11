@@ -35,7 +35,7 @@ Zombies have the following profile:
 
 | Model  | Cmd | Mov | Skl | Def | Tgh | HP  |
 | :----- | :-: | :-: | :-: | :-: | :-: | :-: |
-| Zombie |  x  |  2" |  5+ |  4+ |  4  |  1  |
+| Zombie |  x  |  3" |  5+ |  5+ |  5  |  1  |
 
 ### Zombie Activity Events
 
