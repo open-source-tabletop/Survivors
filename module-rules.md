@@ -31,6 +31,12 @@ Zombie models work a lot like any other model, having attributes, performing act
 
 The zombies have their own entry points, some scattered around the table edge, while others are placed on the battlefield, at building doorways and so on. Zombies are deployed at these entry points as explained below.
 
+Zombies have the following profile:
+
+| Model  | Cmd | Mov | Skl | Def | Tgh | HP  |
+| :----- | :-: | :-: | :-: | :-: | :-: | :-: |
+| Zombie |  x  |  2" |  5+ |  4+ |  4  |  1  |
+
 ### Zombie Activity Events
 
 For each failed disturbance roll a player makes, the opposing player must activate a zombie of their choice, within 12 inches of the model that caused the disturbance. They may choose whichever zombie models they wish but not the same zombie twice for any zombie activity event. If there are more failed disturbance rolls than zombies within 12 inches they must place a new zombie within 3 inches of any zombie entry point they choose. They then activate one of their own models as normal if they have any remaining with command points.
